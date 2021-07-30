@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ABLSandbox/Life/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Home</title>
+	<base href="https://nizath.com/" />
+			<meta name="viewport" content="width=1200" />
+		<meta name="description" content="" />
+	<meta name="keywords" content="" />
+		<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://nizath.com/" />
+	<!-- Facebook Open Graph end -->
+		
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/main.js?v=20210621101306" type="text/javascript"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<link href="css/font-awesome/font-awesome.min.css?v=4.7.0" rel="stylesheet" type="text/css" />
+	<link href="css/site.css?v=20210303163057" rel="stylesheet" type="text/css" id="wb-site-stylesheet" />
+	<link href="css/common.css?ts=1624974835" rel="stylesheet" type="text/css" />
+	<link href="css/1.css?ts=1624974835" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	<link rel="icon" href="/gallery/dg-ts1459768290.png" type="image/png" />
+	<script type="text/javascript">
+	window.useTrailingSlashes = true;
+</script>
+	
+	<link href="css/flag-icon-css/css/flag-icon.min.css" rel="stylesheet" type="text/css" />	
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.min.js"></script>
+	<![endif]-->
+    <iframe width="700" height="433" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbMACbrLgf2ppfT2DrtgOHuWj4H6QkgIwOA-BBnY_kz_j5vvtLgRGRptkkEX5HX7ZksDCeWh7y-flI/pubchart?oid=1438612738&amp;format=interactive"></iframe>
+    
+    <script SameSite="None; Secure" src="https://static.landbot.io/landbot-3/landbot-3.0.0.js"></script>
+    <script>
+      var myLandbot = new Landbot.Livechat({
+        configUrl: 'https://chats.landbot.io/v3/H-962054-V8PSAF8WHSZ9DZ45/index.json',
+      });
+    </script>
+	</head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ABLSandbox/Life/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body class="site  " ><div class="root"><div class="vbox wb_container" id="wb_header">
+	
+</html>
